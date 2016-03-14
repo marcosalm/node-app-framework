@@ -1,0 +1,6 @@
+{
+  "get":[
+    ["/","home.index"],
+    ["/main","main.index"]
+  ]
+}

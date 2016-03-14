@@ -1,0 +1,36 @@
+{
+    "name": "node_app_framework",
+    "version": "1.0.0",
+    "description":"Node Application Framework built on top of Express",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": {
+        "name": "Marcos Almeida",
+        "url": "http://www.marcosalmeida.com.br/"
+    },
+    "dependencies": {
+        "express": "3.1.1",
+        "jade": "0.28.1",
+        "mysql":"*.*",
+        "restler":"2.0.1",
+        "ejs":"0.8.3"  ,
+        "forever-monitor":"1.1.0",
+        "http-proxy":"0.10.1"
+    },
+	"keywords": [
+		"framework",
+		"web",
+		"rest",
+		"restful",
+		"router",
+		"app",
+		"api"
+	  ],
+	"repository": "git://github.com/marcosalm/node-app-framework",
+	"main":"index",
+    "engines": {
+        "node": "0.8.x",
+        "npm":  "1.1.x"
+    }
+}
