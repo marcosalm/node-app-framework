@@ -14,7 +14,6 @@
         "jade": "0.28.1",
         "mysql":"*.*",
         "restler":"2.0.1",
-        "ejs":"0.8.3"  ,
         "forever-monitor":"1.1.0",
         "http-proxy":"0.10.1"
     },
